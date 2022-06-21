@@ -1,0 +1,35 @@
+p:hover
+{
+    color: red;
+    text-decoration: underline;
+    font-style: italic;
+}
+.Ber
+{
+    color: brown;
+}
+p
+{
+    font-size: 1em;
+    border: 1px solid black;
+    padding: 16px;
+    height: 150px;
+    width: 120px;
+    overflow: scroll;
+    
+}
+.image
+ {
+    width: 6em;
+    height: 5em;
+ }
+ a:active
+ {
+     color:brown;
+     background-color: blue;
+ }
+ a:visited
+ {
+     color:turquoise;
+     background-color: turquoise;
+ }
